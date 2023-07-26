@@ -13,5 +13,5 @@ Azure Databricks
 * Task-Specific Evaluation (Accuracy, Precision, Recall, Rouge Score, BLEU)
 * Ethical Evaluation & Biasness- Impact on society(Risks, Toxicity, Hallucinations, Mitigation)
 * LLMOPs (MLOPs vs LLMOPs, model loading, Inference pipeline- Delta Tables, MLFLOW (experiment tracking & Model Registry), Orchestration using Delta Live Tables, Deployment to production from dev pipelines.)
-![image](https://github.com/vineet1409/hands-on-LLMs/assets/34694449/f99f8782-0b73-4eee-84fd-8f80c3ebf10d)
+
 
