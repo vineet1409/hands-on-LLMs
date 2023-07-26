@@ -14,4 +14,7 @@ Azure Databricks
 * Ethical Evaluation & Biasness- Impact on society(Risks, Toxicity, Hallucinations, Mitigation)
 * LLMOPs (MLOPs vs LLMOPs, model loading, Inference pipeline- Delta Tables, MLFLOW (experiment tracking & Model Registry), Orchestration using Delta Live Tables, Deployment to production from dev pipelines.)
 
+# Source and References:
+https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+
 
