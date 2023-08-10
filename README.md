@@ -4,6 +4,9 @@ This repo covers the entire workflow from developing/fine-tuning Large Language 
 # Enviornment:
 Azure Databricks
 
+# Architecture
+![LLMOps](LLMOPs_Architecture.png)
+
 # Content:
 * LLM introduction and Databricks
 * Applications with LLMs- Classification and Generative AI using Hugging Face pre-trained models like T5-small/base
