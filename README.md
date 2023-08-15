@@ -10,6 +10,11 @@ Azure Databricks
 # Architecture
 ![LLMOps](LLMOPs_Architecture.png)
 
+
+## Align LLMs with Human Values: Reinforcement Learning from Human Feedback (RLHF)
+![RLHF](RLHF.png)
+
+
 # Content:
 * LLM introduction and Databricks
 * Applications with LLMs- Classification and Generative AI using Hugging Face pre-trained models like T5-small/base
