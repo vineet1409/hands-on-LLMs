@@ -14,6 +14,9 @@ Azure Databricks
 ## Align LLMs with Human Values: Reinforcement Learning from Human Feedback (RLHF)
 ![RLHF](RLHF.png)
 
+## Intelligent Document Search and Retrieval- Graph RAG (Knowledge Graphs + RAG)
+![GRAPH_RAG](graph_rag.png)
+
 
 # Content:
 * LLM introduction and Databricks
