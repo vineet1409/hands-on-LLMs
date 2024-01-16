@@ -17,6 +17,9 @@ Azure Databricks
 ## Intelligent Document Search and Retrieval- Graph RAG (Knowledge Graphs + RAG)
 ![GRAPH_RAG](graph_rag.png)
 
+## MLOPs on Databricks System Design
+![LLMOPs](dbmlops.png)
+
 
 # Content:
 * LLM introduction and Databricks
